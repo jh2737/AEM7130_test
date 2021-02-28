@@ -1,0 +1,2 @@
+Number of males: 3371
+Number of professions: 15
